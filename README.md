@@ -8,9 +8,11 @@
 
 A data analysis project exploring recorded explosive-weapon incidents affecting civilian services in Ukraine since 24 February 2022.
 
-I originally started this as a Python + Tableau analysis project. While working with the data, I decided to take it a step further and build a small automated pipeline around it, so the project would not depend on manually downloading and replacing files every time the source is updated. The underlying data pipeline is refreshed automatically once a week.
+I originally started this as a Python + Tableau analysis project. While working with the data, I decided to take it a step further and build a small automated pipeline around it, so the project would not depend on manually downloading and replacing files every time the source is updated. 
 
-**Data source:** Insecurity Insight via the Humanitarian Data Exchange (HDX).
+**The underlying data pipeline is refreshed automatically once a week.**
+
+**Data source:** [Insecurity Insight via the Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset/explosive-weapons-use-affecting-aid-access-education-and-healthcare-services)
 
 ### [View the interactive Tableau dashboard](https://public.tableau.com/views/Book1_17807567395660/Dashboard_Explosive_Violence?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
