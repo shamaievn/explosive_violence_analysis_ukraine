@@ -2,6 +2,10 @@ name: Update Explosive Violence Data
 
 on:
   workflow_dispatch:
+  
+  schedule:
+    - cron: "15 6 * * 1"
+      timezone: "Europe/Kyiv"
 
 jobs:
   update-data:
