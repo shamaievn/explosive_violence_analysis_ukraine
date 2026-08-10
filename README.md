@@ -10,7 +10,7 @@ A data analysis project exploring recorded explosive-weapon incidents affecting 
 
 I originally started this as a Python + Tableau analysis project. While working with the data, I decided to take it a step further and build a small automated pipeline around it, so the project would not depend on manually downloading and replacing files every time the source is updated. 
 
-**The underlying data pipeline is refreshed automatically once a week.**
+**So now the underlying data pipeline is refreshed automatically once a week.**
 
 **Data source:** [Insecurity Insight via the Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset/explosive-weapons-use-affecting-aid-access-education-and-healthcare-services)
 
