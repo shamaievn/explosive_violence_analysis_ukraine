@@ -1,0 +1,5 @@
+google_credentials.json
+__pycache__/
+*.pyc
+processed_incidents.csv
+processed_sectors.csv
