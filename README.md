@@ -16,7 +16,7 @@ I originally started this as a Python + Tableau analysis project. While working 
 
 ### [View the interactive Tableau dashboard](https://public.tableau.com/views/Book1_17807567395660/Dashboard_Explosive_Violence?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](assets/dashboard_demo.png)
 
 ---
 
