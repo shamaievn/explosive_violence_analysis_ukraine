@@ -67,6 +67,7 @@ def clean_regions(ukraine_df):
 
         'autonomous republic of crimea': 'crimea',
         'republic of crimea': 'crimea',
+        'crimean peninsula': 'crimea'
 }
     ukraine_df['region_clean'] = (
         ukraine_df['region_clean']
