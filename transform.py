@@ -51,8 +51,8 @@ def clean_regions(ukraine_df):
         'beryslav raion': 'kherson oblast',
         'kherson raion': 'kherson oblast',
         'henichesk raion': 'kherson oblast',
-        'kamin-kashyrskyi raion': 'volyn\'s\'ka oblast',
-        'lutsk raion': 'volyn\'s\'ka oblast',
+        'kamin-kashyrskyi raion': 'volyn oblast',
+        'lutsk raion': 'volyn oblast',
 
 
         'pecherskyi': 'kyiv city',
